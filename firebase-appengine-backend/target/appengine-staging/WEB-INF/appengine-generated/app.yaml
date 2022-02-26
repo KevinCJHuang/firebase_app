@@ -1,0 +1,27 @@
+runtime: java8
+manual_scaling:
+  instances: 3
+inbound_services:
+- warmup
+threadsafe: True
+auto_id_policy: default
+beta_settings:
+  'source_reference': 'https://github.com/GoogleCloudPlatform/firebase-appengine-backend#33073b04dd9d0b009cc64fa89f320072bc015f0f'
+api_version: 'user_defined'
+handlers:
+- url: /
+  script: unused
+  login: optional
+  secure: optional
+- url: /.*/
+  script: unused
+  login: optional
+  secure: optional
+- url: /_ah/.*
+  script: unused
+  login: optional
+  secure: optional
+- url: /printLogs
+  script: unused
+  login: optional
+  secure: optional

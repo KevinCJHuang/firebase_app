@@ -1,0 +1,8 @@
+com\google\cloud\solutions\flexenv\backend\MessagePurger.class
+com\google\cloud\solutions\flexenv\backend\MessagePurger$1.class
+com\google\cloud\solutions\flexenv\backend\MessageProcessorServlet$1.class
+com\google\cloud\solutions\flexenv\backend\MessageProcessorServlet$1$1.class
+com\google\cloud\solutions\flexenv\backend\MessageProcessorServlet$2.class
+com\google\cloud\solutions\flexenv\common\LogEntry.class
+com\google\cloud\solutions\flexenv\common\Message.class
+com\google\cloud\solutions\flexenv\backend\MessageProcessorServlet.class

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "118656089579",
+    "firebase_url": "https://playchat-7cd92-default-rtdb.firebaseio.com",
+    "project_id": "playchat-7cd92",
+    "storage_bucket": "playchat-7cd92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118656089579:android:f6594c1e5f7c91e7be2dae",
+        "android_client_info": {
+          "package_name": "com.google.cloud.solutions.flexenv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118656089579-9anrhmj4ikdl50sh301nu8q1cqojfkdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.cloud.solutions.flexenv",
+            "certificate_hash": "b5ff4be500dd76dbd6c04c127bdd8b6c67d792a3"
+          }
+        },
+        {
+          "client_id": "118656089579-pq6ntoud1pa0kocvnfq939mkod8r2l1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjkFRwU7MuJTKope94joVF73rbcyxVmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118656089579-pq6ntoud1pa0kocvnfq939mkod8r2l1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

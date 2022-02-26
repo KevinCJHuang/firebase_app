@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "playchat-7cd92",
+  "private_key_id": "0611ca8f8fd8dd02580c1d4a429fd371b563fe26",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3GdkXyA425tna\n2GKNiTjuOWNnfpP9xiRBLULDAFYvsK53bkBJqiS5/u3w9RY+oiVk0OXzRcBOHW5m\nz07hBTQwLfOr4tReqnz+OV1s3xEbk2CUfI2VovyPG+m8725aQFf59kgS9KHAUQJT\neNd46Bo3gL1dZj4Q8GAZYWxWjlB9IwcTjXgM7kvqCDY/Y1wXqNuWxVZNydt2Cx7x\nIamfPRsTv4L3LvEFN53v6nvxxxVosQBXbjzTOG2jNrdy4XXBQ+1ig6PiNFWNlLb6\nYl1L8aLeOkvPoLDUrJBCRqzkRc9ymHzuG+getkUHs7TwUKjIu5d+p016zUUyrjn3\nTyESF91lAgMBAAECggEADdaFQrfa4ylVQ6Xg5ON/CvoJWjQFyUMlUEu0ZPpsiRQo\nS1xovWh/eBMdNn2/XaJxgwoKpvUZkI3G3zxBsN3s0MtYRCBTfogSBECfn+/H4jak\nMPSs2qdDwSkR5DaQN3/vZjPHxK76XoeAzoAugLPB73nqVdm5TRxtlt13C5+b06km\nLxb1eWlDmxJcOB3+G7K6vFLKpL8rkxd81sPOxT+6J69nC8JeNf+09CXtf7JolrOS\nxUCjs36uyGq21em6jeYcweIVurVqlXPwauN2YO1TrRjjlBY6zFcHGzE47G3//OFX\nvxldZwLQrZZkKavGQeu/LcSojAzwyjWrnJvkdZkOgQKBgQDs5+w33ivRAcX7EoyE\nhXeJlbU5VbkpHJlM+6QzPE5D9iKbJal+6qFMhAaDe8vut8q8yL+NDJIyg7YuLaUu\nQUGfS4I84RPebsg1TrmVbOCKUu7pswHigkm9dR/26lv4S4L72v+kyWmhku1iMLoF\npldjOTOKzpB3n5zSudOFNrLioQKBgQDF28STHos6IKZU49kNjAzpO/UihfPW4LQI\nhrGjMfXzunNdMEquMg6KsmVpABcmbUk3yDABy2J02dsGa9DM3meTTCWNARFOZgvu\nh6P1zMkDvpbcgVB0xcIBdlqLtxZserHSTU2Ln01gz/HoRbdo5m+Eqvi7WTRwK57t\nqR5P9PPIRQKBgQCqtRPJzhXUrWpz2JHYjDPuuCm1/sdFkI4Gou1W3gWngxy8nw7b\nnUZNVHU9GV+BzH4SOrWMdZqDO9VywQFdqzgWCNr381fV2A38G5Yuzh2ejtQJIiwh\ng7CPDG7UBVvwNrlTsiK0I04yVyUms+XXXF1r6jPxuZbwG9ttHOoF+7w7AQKBgQCf\nHX2YUpfkxxz8Z7/GBTrc1jrs6IyP4WTm9msksqj4uJjN+GgWbmsDXzPunQQBAyI+\nmd8Bkm47Sne5Ujs4hiMFcddA7frc8XPm/2373hRJzpvD+LqbLe42/tcSRMrjskgO\nt9wEzLeNg60m/enhkm9cYaJmB/cDvhCxT6/w3SyvgQKBgQCJkjiG3VggOs7d1E80\n9QtepBHAzy8XTnNyfYQZHc87niqc0FK7d3Jdb8ZDxfbwyvuS0IP751V8zeaWq71r\nrDBw/ql8HT8gm6UgUscsIuCrWva62dColrKjqJhTpZ41psrZvbuAvI8MiEwRRvEE\nJlzTXFFiinSBVTexc6SYnnR/pQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "playchat-servlet@playchat-7cd92.iam.gserviceaccount.com",
+  "client_id": "101175727853958033093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/playchat-servlet%40playchat-7cd92.iam.gserviceaccount.com"
+}
